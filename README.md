@@ -7,7 +7,7 @@ This project explores the global unicorn startup ecosystem using SQL to analyze 
 The dataset contains information about unicorn companies worldwide with the following key attributes:
 - Company name
 - Valuation ($B)
-- Date joined unicorn club
+- Date joined
 - Country & City
 - Industry
 - Select Investors
