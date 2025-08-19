@@ -81,10 +81,15 @@ Here I solved different problems:
 - 'Acquired' is the most common financial stage among unicorns
 - A total of 48 unicorns had portfolio exits
 
+## Project Files
+[Dataset of Project in csv](https://github.com/Jia-Menahil/UnicornCompaniesAnalysis_SQL/blob/main/UnicornCompanies.csv) <br>
+[Cleaning of Data through SQL](https://github.com/Jia-Menahil/UnicornCompaniesAnalysis_SQL/blob/main/UnicornCompaniesCleaning.sql) <br>
+[Exploration of Unicorn Companies data through SQL](https://github.com/Jia-Menahil/UnicornCompaniesAnalysis_SQL/blob/main/UnicornCompaniesExploration.sql)
+
 ## Connect with me 
 🙋 Author: Jia Menahil Rasheed
 
-LinkedIn: [https://www.linkedin.com/in/jia-rasheed-b030962ba/]
+LinkedIn: https://www.linkedin.com/in/jia-rasheed-b030962ba/
 
 Email: jiarasheed7@gmail.com
 
